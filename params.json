@@ -1,0 +1,9 @@
+{
+  "csv_jobs": [
+    { "path": "data/input/employee.csv", "destination": "local" }
+  ],
+  "json_jobs": [
+    { "path": "data/input/sample1.json", "destination": "local" },
+    {"path":"data/input/sample2.json", "destination": "local"}
+  ]
+}

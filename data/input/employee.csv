@@ -1,0 +1,8 @@
+employee_id,name,department,salary,join_date
+1001,John Smith,Engineering,75000,2024-01-15
+1002,Emma Wilson,Marketing,65000,2024-02-01
+1002,Emma Wilson,Marketing,65000,2024-02-01
+1003,Michael Brown,Engineering,80000,2024-01-20
+1004,Sarah Davis,HR,60000,2024-03-01
+1005,James Johnson,Marketing,70000,2024-02-15
+null,James Johnson,Marketing,70000,2024-02-15
